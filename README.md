@@ -6,7 +6,7 @@ A basic, Bash-inspired Unix shell that I made. It's not very complex, but it doe
 - Perform background and foreground execution
 - Perform I/O redirection using `<`, `>`, and `>>`
 - Utilize pipes
-- Ignore comments (prefixed with `#`) will be ignored by Shelleton
+- Ignore comments (anything prefixed with `#` will be ignored by Shelleton)
 - Read/write environment variables
 
 And there are a few commands built in:
