@@ -2,7 +2,7 @@ Shelleton
 ==========
 A basic, Bash-inspired Unix shell that I made. It's not very complex, but it does everything you would expect a shell to do. It can:
 - Run executables
-- Search your `PATH` for executables if they executable you want is not present in that directory
+- Search your `PATH` for executables if the executable you want is not present in that directory
 - Perform background and foreground execution
 - Perform I/O redirection using `<`, `>`, and `>>`
 - Utilize pipes
